@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGyup4oMmLoBVXRCxFpdPwL//T6P/UKS6RsTNoC5BUzKPACwoZXhZNdcAMP8JCxFDlvS+lYxCw0CR1sb2q2cmQ==",
+  "success": true,
+  "projectFilePath": "C:\\HospitalMascotas\\Veterinaria.app\\Veterinaria.app.Dominio\\Veterinaria.app.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pipeo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pipeo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
